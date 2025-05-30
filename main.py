@@ -1,6 +1,5 @@
 import can_receiver
 
-
 def main():
 	try:
 		bus = can_receiver.get_data_bus()
